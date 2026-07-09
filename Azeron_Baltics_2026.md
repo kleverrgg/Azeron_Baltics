@@ -189,5 +189,5 @@ Read the full rulebook here - [LINK](./Rulebook.md)
 
 See in detail here - [TBD]()
 
-## APPENDIX III - Registration Timestamps
+## APPENDIX III – Registration Timestamps
 See in detail here - [LINK](https://docs.google.com/spreadsheets/d/1jDhhNV3AHj-I8nXYlutNkqQpY-wjs8sHgiYSclGKUh4/edit?gid=1108502583#gid=1108502583)
