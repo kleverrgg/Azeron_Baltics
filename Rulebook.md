@@ -87,7 +87,7 @@ In line with Valve’s guidelines for Tier 2 Open events, "Azeron" Baltic Superf
 Seeding will be based on the official Global VRS ranking (reffer to Appendix 1 - Season specific information -  about date of seeding).
 The seeding for the “"Azeron" Baltic Superfinal” Main Tournament will be determined using a hierarchical ranking system to ensure a competitive and fair placement of teams. The seeding methodology is as follows:
 
-__1. Primary Seeding:__ Global VRS ranking (more information on [Appendix 1](#appendix-i--season-specific-information))
+__1. Primary Seeding:__ Global VRS ranking (more information on [Appendix 1](#appendix-i--season-specific-information)
 
 __2. Secondary Seeding:__ If no Global VRS ranking → HLTV ranking ([Appendix 1](#appendix-i--season-specific-information))
 
