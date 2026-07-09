@@ -41,8 +41,8 @@ Kleverr staff.
   - [1.12 Prize Pool](#112-prize-pool)
     - [1.12.1 Prize Payout](#1121-prize-payout)
   - [1.13 Match Times](#113-match-times)
-    - [1.13.1 LAN Qualifiers](1131-lan-qualifiers)
-    - [1.13.2 Play offs](1132-play-offs)
+    - [1.13.1 LAN Qualifiers](#1131-lan-qualifiers)
+    - [1.13.2 Play offs](#1132-play-offs)
 - [SECTION TWO - Game rules](#section-two--game-rules)
   - [2.1 Group Stage](#21-group-stage)
     - [2.1.1 Group Stage Seeding](#211-group-stage-seeding)
@@ -53,6 +53,7 @@ Kleverr staff.
   - [2.3 Playoff Seeding](#23-playoff-seeding)
 - [APPENDIX I - Full Rulebook](#appendix-i--full-rulebook)
 - [APPENDIX II - Tournament schedule](#appendix-ii--tournament-schedule)
+- [APPENDIX III - Registration Timestamps](#appendix-iii--registration-timestamps)
 
 ---
 
@@ -119,13 +120,17 @@ If the team fails to provide the required information within 1 year of the tourn
 ### 1.13 Match Times
 Matches are rolling schedule.
 #### 1.13.1 LAN Qualifiers
-- GROUP A and GROUP D
-###### 12:00 EEST
-- GROUP B and C
-###### 16:00 EEST
+GROUP A and GROUP D |
+|:-----:|
+12:00 EEST |
+
+GROUP B and GROUP C |
+|:-----:|
+16:00 EEST |
 
 #### 1.13.2 Play offs
-###### 20:00 EEST
+20:00 EEST |
+|:-----:|
 
 ---
 
